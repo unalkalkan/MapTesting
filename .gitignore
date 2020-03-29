@@ -1,0 +1,230 @@
+# Unity Folders #
+#################
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+
+# Compiled source #
+###################
+*.com
+*.class
+*.apk
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Unity Library Folder #
+######################
+Project/Library/
+
+# VS Files #
+############
+*.csproj
+*.sln
+Project/Project.csproj
+Project/Project.Editor.csproj
+Project/Project.Editor.Plugins.csproj
+Project/Project.Plugins.csproj
+
+# Unity Temp #
+######################
+Project/Temp/
+
+# IDE Spesific #
+######################
+Project/.vs/
+Project/.vscode/
+
+#UnityPlayer dll# 
+######################
+Project/UnityPlayer.dll
+
+# Asset Bundles #
+######################
+/Project/AssetBundles/
+
+# External Assets #
+######################
+/Project/Assets/AmplifyShaderEditor
+/Project/Assets/Lens Flares
+/Project/Assets/ProBuilder Data
+/Project/Assets/ProCore
+/Project/Assets/UVPreview
+/Project/Assets/UVPreview.meta
+/Project/Assets/AmplifyShaderEditor.meta
+/Project/Assets/Lens Flares.meta
+/Project/Assets/ProBuilder Data.meta
+/Project/Assets/ProCore.meta
+
+# Tools #
+##########
+/Project/Assets/LocalAssets/Network/NetworkResource.bytes
+/Project/Assets/LocalAssets/Network/NetworkResource.bytes.meta
+/Project/.gradle/
+/Project/Assets/_TerrainAutoUpgrade.meta
+/Project/Assets/_TerrainAutoUpgrade/layer_Grass_AGrass_N(0.600,0.600)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer
+/Project/Assets/_TerrainAutoUpgrade/layer_Grass_AGrass_N(0.600,0.600)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+/Project/Assets/_TerrainAutoUpgrade/layer_Grass_AGrass_N(1.000,1.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer
+/Project/Assets/_TerrainAutoUpgrade/layer_Grass_AGrass_N(1.000,1.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+/Project/Assets/_TerrainAutoUpgrade/layer_rock_drock_n(0.400,0.400)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer
+/Project/Assets/_TerrainAutoUpgrade/layer_rock_drock_n(0.400,0.400)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+/Project/Assets/_TerrainAutoUpgrade/layer_rock_drock_n(10.000,10.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer
+/Project/Assets/_TerrainAutoUpgrade/layer_rock_drock_n(10.000,10.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+/Project/Assets/_TerrainAutoUpgrade/layer_Sand_basecolorSand_normal(0.200,0.200)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer
+/Project/Assets/_TerrainAutoUpgrade/layer_Sand_basecolorSand_normal(0.200,0.200)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+/Project/Assets/_TerrainAutoUpgrade/layer_Sand_basecolorSand_normal(1.000,1.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer
+/Project/Assets/_TerrainAutoUpgrade/layer_Sand_basecolorSand_normal(1.000,1.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+/Project/Assets/_TerrainAutoUpgrade/layer_snow_albedosnow_normal(0.200,0.200)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer
+/Project/Assets/_TerrainAutoUpgrade/layer_snow_albedosnow_normal(0.200,0.200)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer.meta
+/Project/Assets/Allegorithmic.meta
+/Project/Assets/Allegorithmic/Plugins.meta
+/Project/Assets/Allegorithmic/Plugins/engine_build_info.txt
+/Project/Assets/Allegorithmic/Plugins/engine_build_info.txt.meta
+/Project/Assets/Allegorithmic/Plugins/EULA.txt
+/Project/Assets/Allegorithmic/Plugins/EULA.txt.meta
+/Project/Assets/Allegorithmic/Plugins/libsubstance_sse2_blend.bundle
+/Project/Assets/Allegorithmic/Plugins/libsubstance_sse2_blend.bundle.meta
+/Project/Assets/Allegorithmic/Plugins/Substance.Engine.bundle.meta
+/Project/Assets/Allegorithmic/Plugins/Substance.Engine.bundle/Contents.meta
+/Project/Assets/Allegorithmic/Plugins/Substance.Engine.bundle/Contents/Info.plist
+/Project/Assets/Allegorithmic/Plugins/Substance.Engine.bundle/Contents/Info.plist.meta
+/Project/Assets/Allegorithmic/Plugins/Substance.Engine.bundle/Contents/MacOS.meta
+/Project/Assets/Allegorithmic/Plugins/Substance.Engine.bundle/Contents/MacOS/Substance.Engine
+/Project/Assets/Allegorithmic/Plugins/Substance.Engine.bundle/Contents/MacOS/Substance.Engine.meta
+/Project/Assets/Allegorithmic/Plugins/Substance.Engine.dll
+/Project/Assets/Allegorithmic/Plugins/Substance.Engine.dll.meta
+/Project/Assets/Allegorithmic/Plugins/Substance.Game.dll
+/Project/Assets/Allegorithmic/Plugins/Substance.Game.dll.meta
+/Project/Assets/Allegorithmic/Plugins/Substance.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Armv7.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Armv7/libalgcompression.a
+/Project/Assets/Allegorithmic/Plugins/Substance/Armv7/libalgcompression.a.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Armv7/libpfxlinkercommon.a
+/Project/Assets/Allegorithmic/Plugins/Substance/Armv7/libpfxlinkercommon.a.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Armv7/libSubstance.Engine.Mobile.so.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Armv7/libsubstance_framework.a
+/Project/Assets/Allegorithmic/Plugins/Substance/Armv7/libsubstance_framework.a.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Armv7/libsubstance_linker.a
+/Project/Assets/Allegorithmic/Plugins/Substance/Armv7/libsubstance_linker.a.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Armv7/libsubstance_neon_blend.a
+/Project/Assets/Allegorithmic/Plugins/Substance/Armv7/libsubstance_neon_blend.a.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Armv7/libtinyxml.a
+/Project/Assets/Allegorithmic/Plugins/Substance/Armv7/libtinyxml.a.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/iOS.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/iOS/libalgcompression.a
+/Project/Assets/Allegorithmic/Plugins/Substance/iOS/libalgcompression.a.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/iOS/libpfxlinkercommon.a
+/Project/Assets/Allegorithmic/Plugins/Substance/iOS/libpfxlinkercommon.a.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/iOS/libSubstance.Engine.a
+/Project/Assets/Allegorithmic/Plugins/Substance/iOS/libSubstance.Engine.a.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/iOS/libsubstance_framework.a
+/Project/Assets/Allegorithmic/Plugins/Substance/iOS/libsubstance_framework.a.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/iOS/libsubstance_linker.a
+/Project/Assets/Allegorithmic/Plugins/Substance/iOS/libsubstance_linker.a.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/iOS/libsubstance_neon_blend.a
+/Project/Assets/Allegorithmic/Plugins/Substance/iOS/libsubstance_neon_blend.a.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/iOS/libtinyxml.a
+/Project/Assets/Allegorithmic/Plugins/Substance/iOS/libtinyxml.a.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Plugins.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Plugins/SimpleJSON.cs
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Plugins/SimpleJSON.cs.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Plugins/websocket-sharp.dll
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Plugins/websocket-sharp.dll.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Scripts.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Scripts/ItemSelectorWindow.cs
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Scripts/ItemSelectorWindow.cs.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Scripts/MaterialPropertiesManipulation.cs
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Scripts/MaterialPropertiesManipulation.cs.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Scripts/MaterialsManipulation.cs
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Scripts/MaterialsManipulation.cs.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Scripts/MeshLinkEditor.cs
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Scripts/MeshLinkEditor.cs.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Scripts/ShadersInfos.cs
+/Project/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Scripts/ShadersInfos.cs.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Engine.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/MainObject.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/MainObject.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/Substance.Editor.dll
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/Substance.Editor.dll.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/Substance.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/Substance.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceGraph.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceGraph.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceGraph-32.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceGraph-32.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/AssetDownload.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/AssetDownload.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/AvailableDownloads.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/AvailableDownloads.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/DetailExitButton.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/DetailExitButton.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/download.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/download.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/free.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/free.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/leftarrow.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/leftarrow.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/library.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/library.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/LoginButton.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/LoginButton.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/logo-substance.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/logo-substance.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/LogoutButton.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/LogoutButton.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/logo-white.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/logo-white.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/MagnifyingGlass.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/MagnifyingGlass.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/MyAssetsButton.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/MyAssetsButton.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/new.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/new.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/rightarrow.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/rightarrow.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/Source.Icon.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/Source.Icon.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/spinner.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/spinner.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/SubstanceSourceLoading.png
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/Images/SubstanceSourceLoading.png.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/libSourceInterfacex64.dylib
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/libSourceInterfacex64.dylib.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/SourceInterfacex64.dll
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/SourceInterfacex64.dll.meta
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/SourceUnityLib.dll
+/Project/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/SourceUnityLib.dll.meta
+/Project/Assets/Allegorithmic/Plugins/substance_sse2_blend.dll
+/Project/Assets/Allegorithmic/Plugins/substance_sse2_blend.dll.meta
